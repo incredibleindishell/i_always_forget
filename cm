@@ -1,3 +1,6 @@
 
 
 kill $(lsof -t -i:port_num)
+
+
+pip install "weasyprint<43"
