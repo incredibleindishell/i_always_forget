@@ -43,3 +43,16 @@ Listing services:
 Getting ingress detail:
 
      └──╼ #kubectl get ingress kube-prometheus-stack-grafana --namespace=monitoring -o yaml
+     
+
+### Tools for RBAC Mapping
+
+https://github.com/cyberark/KubiScan
+https://github.com/aquasecurity/kubectl-who-can
+
+### Good resources regarding Kubernetes security:
+
+https://cloud.hacktricks.xyz/pentesting-cloud/kubernetes-security/kubernetes-pivoting-to-clouds
+
+https://cloud.hacktricks.xyz/pentesting-cloud/kubernetes-security/kubernetes-namespace-escalation
+
