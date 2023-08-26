@@ -56,3 +56,6 @@ https://cloud.hacktricks.xyz/pentesting-cloud/kubernetes-security/kubernetes-piv
 
 https://cloud.hacktricks.xyz/pentesting-cloud/kubernetes-security/kubernetes-namespace-escalation
 
+https://blog.christophetd.fr/privilege-escalation-in-aws-elastic-kubernetes-service-eks-by-compromising-the-instance-role-of-worker-nodes/
+
+https://blog.calif.io/p/privilege-escalation-in-eks
